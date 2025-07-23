@@ -17,7 +17,6 @@ df = kagglehub.load_dataset(
 )
 
 
-
 print("First 5 records:")
 print(df.head())
 
