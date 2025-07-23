@@ -35,4 +35,4 @@ build/
 .vscode/
 
 # Large credit card csv file
-./python-producer/data/credit_card_transactions.csv
+*.csv
