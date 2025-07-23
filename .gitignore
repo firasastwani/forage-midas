@@ -33,3 +33,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Large credit card csv file
+credit_card_transactions.csv
