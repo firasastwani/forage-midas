@@ -35,4 +35,4 @@ build/
 .vscode/
 
 # Large credit card csv file
-*.csv
+./forage-midas/src/main/resources/credit_card_data.csv
